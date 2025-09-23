@@ -1,0 +1,367 @@
+2025-09-22 20:09:48,177 [INFO] Inicio del proceso ETL
+2025-09-22 20:10:52,727 [INFO] Inicio del proceso ETL
+2025-09-22 20:11:46,860 [INFO] Inicio del proceso ETL
+2025-09-22 20:11:46,864 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 20:16:31,415 [INFO] Inicio del proceso ETL
+2025-09-22 20:16:31,418 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 20:16:31,454 [INFO] Tabla 'etl_monitor' creada correctamente.
+2025-09-22 20:16:31,480 [INFO] Fin del proceso ETL
+2025-09-22 20:17:16,336 [INFO] Inicio del proceso ETL
+2025-09-22 20:17:16,339 [INFO] BD creada: ..\data\lab2.db
+2025-09-22 20:17:16,373 [INFO] Tabla 'etl_monitor' creada correctamente.
+2025-09-22 20:17:16,402 [INFO] Fin del proceso ETL
+2025-09-22 20:17:34,212 [INFO] Inicio del proceso ETL
+2025-09-22 20:17:34,224 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 20:17:34,225 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:17:34,248 [INFO] Fin del proceso ETL
+2025-09-22 20:21:38,128 [INFO] Inicio del proceso ETL
+2025-09-22 20:21:38,132 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 20:21:38,133 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:21:38,186 [INFO] Tabla 'alumnos' creada correctamente.
+2025-09-22 20:21:38,208 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 20:21:38,229 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 20:21:38,251 [INFO] Fin del proceso ETL
+2025-09-22 20:22:29,266 [INFO] Inicio del proceso ETL
+2025-09-22 20:22:29,269 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 20:22:29,271 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:22:29,271 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:22:29,272 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:22:29,273 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:22:29,311 [INFO] Fin del proceso ETL
+2025-09-22 20:28:53,929 [INFO] Inicio del proceso ETL
+2025-09-22 20:28:53,931 [INFO] BD creada: ..\data\lab2.d
+2025-09-22 20:28:53,960 [INFO] Tabla 'etl_monitor' creada correctamente.
+2025-09-22 20:28:53,980 [INFO] Tabla 'alumnos' creada correctamente.
+2025-09-22 20:28:54,000 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 20:28:54,021 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 20:28:54,103 [INFO] Fin del proceso ETL
+2025-09-22 20:45:03,239 [INFO] Inicio del proceso ETL
+2025-09-22 20:45:03,242 [INFO] BD creada: ..\data\lab2.d
+2025-09-22 20:45:03,268 [INFO] Tabla 'etl_monitor' creada correctamente.
+2025-09-22 20:45:03,288 [INFO] Tabla 'alumnos' creada correctamente.
+2025-09-22 20:45:03,308 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 20:45:03,329 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 20:45:03,345 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:46:22,047 [INFO] Inicio del proceso ETL
+2025-09-22 20:46:22,050 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:46:22,051 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:46:22,052 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:46:22,053 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:46:22,054 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:46:22,070 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:49:08,042 [INFO] Inicio del proceso ETL
+2025-09-22 20:49:08,046 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:49:08,047 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:49:08,048 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:49:08,048 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:49:08,049 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:49:08,089 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:50:17,558 [INFO] Inicio del proceso ETL
+2025-09-22 20:50:17,561 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:50:17,563 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:50:17,564 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:50:17,564 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:50:17,565 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:50:17,600 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:50:59,018 [INFO] Inicio del proceso ETL
+2025-09-22 20:50:59,021 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:50:59,022 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:50:59,023 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:50:59,024 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:50:59,024 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:50:59,059 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:51:35,282 [INFO] Inicio del proceso ETL
+2025-09-22 20:51:35,286 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:51:35,287 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:51:35,287 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:51:35,288 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:51:35,288 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:51:35,324 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:51:50,540 [INFO] Inicio del proceso ETL
+2025-09-22 20:51:50,543 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:51:50,544 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:51:50,545 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:51:50,545 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:51:50,546 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:51:50,580 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:52:52,318 [INFO] Inicio del proceso ETL
+2025-09-22 20:52:52,321 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:52:52,322 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:52:52,322 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:52:52,323 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:52:52,324 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:52:52,395 [INFO] Fin del proceso ETL
+2025-09-22 20:53:34,035 [INFO] Inicio del proceso ETL
+2025-09-22 20:53:34,038 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:53:34,039 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:53:34,040 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:53:34,040 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:53:34,041 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:53:34,077 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:54:00,505 [INFO] Inicio del proceso ETL
+2025-09-22 20:54:00,509 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:54:00,511 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:54:00,512 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:54:00,512 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:54:00,513 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:54:00,547 [ERROR] Error en la corrida ETL: object of type 'NoneType' has no len()
+2025-09-22 20:55:40,433 [INFO] Inicio del proceso ETL
+2025-09-22 20:55:40,437 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:55:40,438 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:55:40,438 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:55:40,439 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:55:40,440 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:55:40,510 [INFO] Fin del proceso ETL
+2025-09-22 20:55:49,296 [INFO] Inicio del proceso ETL
+2025-09-22 20:55:49,299 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:55:49,300 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:55:49,301 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:55:49,302 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:55:49,302 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:55:49,374 [INFO] Fin del proceso ETL
+2025-09-22 20:56:50,637 [INFO] Inicio del proceso ETL
+2025-09-22 20:56:50,639 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:56:50,641 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:56:50,641 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:56:50,642 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:56:50,643 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:56:50,722 [INFO] Fin del proceso ETL
+2025-09-22 20:57:22,996 [INFO] Inicio del proceso ETL
+2025-09-22 20:57:22,999 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 20:57:23,001 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 20:57:23,002 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 20:57:23,002 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 20:57:23,003 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 20:57:23,080 [INFO] Fin del proceso ETL
+2025-09-22 21:00:50,399 [INFO] Inicio del proceso ETL
+2025-09-22 21:00:50,402 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 21:00:50,404 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 21:00:50,404 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:00:50,405 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:00:50,406 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:00:50,443 [ERROR] Error en la corrida ETL: 'correo'
+2025-09-22 21:01:51,355 [INFO] Inicio del proceso ETL
+2025-09-22 21:01:51,359 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 21:01:51,360 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 21:01:51,361 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:01:51,361 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:01:51,362 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:01:51,442 [INFO] Fin del proceso ETL
+2025-09-22 21:08:48,354 [INFO] Inicio del proceso ETL
+2025-09-22 21:08:48,360 [INFO] La BD ya existe: ..\data\lab2.d
+2025-09-22 21:08:48,361 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 21:08:48,362 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:08:48,363 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:08:48,363 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:08:48,486 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:08:48,548 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:08:48,607 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:08:48,633 [INFO] Fin del proceso ETL
+2025-09-22 21:21:33,425 [INFO] Inicio del proceso ETL
+2025-09-22 21:21:33,428 [INFO] BD creada: ..\data\lab2.db
+2025-09-22 21:21:33,430 [INFO] Error creando tabla 'etl_monitor': near ")": syntax error
+2025-09-22 21:21:33,464 [INFO] Tabla 'alumnos' creada correctamente.
+2025-09-22 21:21:33,485 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 21:21:33,505 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 21:21:33,670 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:21:33,728 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:21:33,790 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:21:33,791 [ERROR] Error en la corrida ETL: MonitorETL.end() got an unexpected keyword argument 'db_file'
+2025-09-22 21:22:01,109 [INFO] Inicio del proceso ETL
+2025-09-22 21:22:01,112 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 21:22:01,114 [INFO] Error creando tabla 'etl_monitor': near ")": syntax error
+2025-09-22 21:22:01,114 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:22:01,115 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:22:01,116 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:22:01,225 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:22:01,285 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:22:01,348 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:22:01,349 [ERROR] Error en la corrida ETL: MonitorETL.end() got an unexpected keyword argument 'db_file'
+2025-09-22 21:23:39,214 [INFO] Inicio del proceso ETL
+2025-09-22 21:23:39,216 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 21:23:39,218 [INFO] Error creando tabla 'etl_monitor': near ")": syntax error
+2025-09-22 21:23:39,218 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:23:39,219 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:23:39,219 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:23:39,324 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:23:39,377 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:23:39,418 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:23:39,421 [ERROR] Error en la corrida ETL: no such table: etl_monitor
+2025-09-22 21:24:18,412 [INFO] Inicio del proceso ETL
+2025-09-22 21:24:18,416 [INFO] BD creada: ..\data\lab2.db
+2025-09-22 21:24:18,417 [INFO] Error creando tabla 'etl_monitor': near ")": syntax error
+2025-09-22 21:24:18,452 [INFO] Tabla 'alumnos' creada correctamente.
+2025-09-22 21:24:18,476 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 21:24:18,494 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 21:24:18,598 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:24:18,660 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:24:18,723 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:24:18,729 [ERROR] Error en la corrida ETL: no such table: etl_monitor
+2025-09-22 21:25:22,663 [INFO] Inicio del proceso ETL
+2025-09-22 21:25:22,666 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 21:25:22,667 [INFO] Error creando tabla 'etl_monitor': near ")": syntax error
+2025-09-22 21:25:22,668 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:25:22,669 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:25:22,670 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:25:22,787 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:25:22,848 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:25:22,906 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:25:22,910 [ERROR] Error en la corrida ETL: no such table: etl_monitor
+2025-09-22 21:25:28,597 [INFO] Inicio del proceso ETL
+2025-09-22 21:25:28,599 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 21:25:28,638 [INFO] Tabla 'etl_monitor' creada correctamente.
+2025-09-22 21:25:28,639 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:25:28,640 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:25:28,640 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:25:28,755 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:25:28,806 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:25:28,856 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:25:28,877 [INFO] Fin del proceso ETL
+2025-09-22 21:26:48,601 [INFO] Inicio del proceso ETL
+2025-09-22 21:26:48,605 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 21:26:48,606 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 21:26:48,607 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:26:48,607 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:26:48,608 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:26:48,723 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:26:48,784 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:26:48,846 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:26:48,871 [INFO] Fin del proceso ETL
+2025-09-22 21:27:02,951 [INFO] Inicio del proceso ETL
+2025-09-22 21:27:02,954 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-22 21:27:02,955 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-22 21:27:02,956 [INFO] La tabla 'alumnos' ya existe.
+2025-09-22 21:27:02,957 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-22 21:27:02,957 [INFO] La tabla 'matriculas' ya existe.
+2025-09-22 21:27:03,071 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:27:03,134 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:27:03,195 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:27:03,223 [INFO] Fin del proceso ETL
+2025-09-22 21:27:18,574 [INFO] Inicio del proceso ETL
+2025-09-22 21:27:18,577 [INFO] BD creada: ..\data\lab2.db
+2025-09-22 21:27:18,579 [INFO] Error creando tabla 'etl_monitor': near ")": syntax error
+2025-09-22 21:27:18,616 [INFO] Tabla 'alumnos' creada correctamente.
+2025-09-22 21:27:18,637 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 21:27:18,659 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 21:27:18,760 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:27:18,816 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:27:18,876 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:27:18,881 [ERROR] Error en la corrida ETL: no such table: etl_monitor
+2025-09-22 21:27:50,992 [INFO] Inicio del proceso ETL
+2025-09-22 21:27:50,995 [INFO] BD creada: ..\data\lab2.db
+2025-09-22 21:27:51,019 [INFO] Tabla 'etl_monitor' creada correctamente.
+2025-09-22 21:27:51,020 [INFO] Error creando tabla 'alumnos': near ")": syntax error
+2025-09-22 21:27:51,042 [INFO] Tabla 'calificaciones' creada correctamente.
+2025-09-22 21:27:51,063 [INFO] Tabla 'matriculas' creada correctamente.
+2025-09-22 21:27:51,151 [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-22 21:27:51,213 [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-22 21:27:51,280 [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-22 21:27:51,311 [INFO] Fin del proceso ETL
+2025-09-23 09:06:45,946 [INFO] Inicio del proceso ETL
+2025-09-23 09:06:45,950 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:06:45,951 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:06:45,951 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:06:45,952 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:06:45,952 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:06:45,964 [INFO] [INFO] [\u2713] CSV leído desde: ..\data\
+2025-09-23 09:06:46,058 [INFO] [INFO] XML cargado correctamente con ElementTree.
+2025-09-23 09:06:46,066 [INFO] [INFO] JSON cargado correctamente.
+2025-09-23 09:06:46,133 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 09:06:46,177 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 09:06:46,219 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 09:06:46,237 [INFO] Fin del proceso ETL
+2025-09-23 09:12:09,696 [INFO] Inicio del proceso ETL
+2025-09-23 09:12:09,699 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:12:09,700 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:12:09,700 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:12:09,700 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:12:09,701 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:12:09,705 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 09:12:09,724 [INFO] [INFO] XML cargado correctamente con ElementTree: matriculas.xml
+2025-09-23 09:12:09,729 [INFO] [INFO] JSON cargado correctamente: calificaciones.json
+2025-09-23 09:12:09,802 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 09:12:09,848 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 09:12:09,892 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 09:12:09,911 [INFO] Fin del proceso ETL
+2025-09-23 09:31:43,610 [INFO] Inicio del proceso ETL
+2025-09-23 09:31:43,613 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:31:43,614 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:31:43,614 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:31:43,614 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:31:43,614 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:31:43,622 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 09:31:43,641 [INFO] [INFO] XML cargado correctamente con ElementTree: matriculas.xml
+2025-09-23 09:31:43,675 [INFO] [INFO] JSON cargado correctamente: calificaciones.json
+2025-09-23 09:31:43,745 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 09:31:43,788 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 09:31:43,833 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 09:31:43,854 [INFO] Fin del proceso ETL
+2025-09-23 09:31:52,108 [INFO] Inicio del proceso ETL
+2025-09-23 09:31:52,111 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:31:52,111 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:31:52,111 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:31:52,112 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:31:52,112 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:31:52,114 [INFO] [ERROR] Error en la corrida ETL: too many values to unpack (expected 2)
+2025-09-23 09:32:57,337 [INFO] Inicio del proceso ETL
+2025-09-23 09:32:57,341 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:32:57,342 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:32:57,342 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:32:57,343 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:32:57,343 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:32:57,350 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 09:32:57,368 [INFO] [INFO] XML cargado correctamente con ElementTree: matriculas.xml
+2025-09-23 09:32:57,374 [INFO] [INFO] JSON cargado correctamente: calificaciones.json
+2025-09-23 09:32:57,438 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 09:32:57,486 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 09:32:57,536 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 09:32:57,555 [INFO] Fin del proceso ETL
+2025-09-23 09:33:30,840 [INFO] Inicio del proceso ETL
+2025-09-23 09:33:30,843 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:33:30,843 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:33:30,844 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:33:30,844 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:33:30,844 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:33:30,849 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 09:33:30,850 [INFO] [ERROR] Error en la corrida ETL: too many values to unpack (expected 2)
+2025-09-23 09:36:27,135 [INFO] Inicio del proceso ETL
+2025-09-23 09:36:27,138 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:36:27,139 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:36:27,139 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:36:27,140 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:36:27,140 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:36:27,146 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 09:36:27,165 [INFO] [INFO] XML cargado correctamente con ElementTree: matriculas.xml
+2025-09-23 09:36:27,171 [INFO] [INFO] JSON cargado correctamente: calificaciones.json
+2025-09-23 09:36:27,250 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 09:36:27,295 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 09:36:27,339 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 09:36:27,387 [INFO] Fin del proceso ETL Satisfactoriamente
+2025-09-23 09:39:26,572 [INFO] Inicio del proceso ETL
+2025-09-23 09:39:26,575 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 09:39:26,576 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 09:39:26,576 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 09:39:26,577 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 09:39:26,577 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 09:39:26,584 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 09:39:26,602 [INFO] [INFO] XML cargado correctamente con ElementTree: matriculas.xml
+2025-09-23 09:39:26,608 [INFO] [INFO] JSON cargado correctamente: calificaciones.json
+2025-09-23 09:39:26,615 [INFO] [INFO] Transformación - Creación de Correos Faltantes: 3
+2025-09-23 09:39:26,670 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 09:39:26,718 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 09:39:26,763 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 09:39:26,784 [INFO] Fin del proceso ETL Satisfactoriamente
+2025-09-23 10:14:36,481 [INFO] Inicio del proceso ETL
+2025-09-23 10:14:36,486 [INFO] [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 10:14:36,486 [INFO] [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 10:14:36,486 [INFO] [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 10:14:36,487 [INFO] [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 10:14:36,487 [INFO] [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 10:14:36,495 [INFO] [INFO] CSV cargado correctamente: alumnos.csv
+2025-09-23 10:14:36,574 [INFO] [INFO] XML cargado correctamente con ElementTree: matriculas.xml
+2025-09-23 10:14:36,581 [INFO] [INFO] JSON cargado correctamente: calificaciones.json
+2025-09-23 10:14:36,589 [INFO] [INFO] Transformación - Creación de Correos Faltantes: 3
+2025-09-23 10:14:36,641 [INFO] [INFO] 8 registros insertados en tabla 'alumnos'
+2025-09-23 10:14:36,688 [INFO] [INFO] 13 registros insertados en tabla 'calificaciones'
+2025-09-23 10:14:36,732 [INFO] [INFO] 8 registros insertados en tabla 'matriculas'
+2025-09-23 10:14:36,755 [INFO] Fin del proceso ETL Satisfactoriamente
