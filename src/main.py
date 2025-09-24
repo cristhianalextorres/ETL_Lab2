@@ -76,7 +76,7 @@ try:
         log = DataLoader.create_table(conn= conn, create_table_sql = create_sql, table_name=name)
         logger.info(log)
 
-    log, df_alumnos = DataExtractor.from_csv(ruta=file_path, archivo='alumno.csv')
+    log, df_alumnos = DataExtractor.from_csv(ruta=file_path, archivo='alumnos.csv')
     logger.info(log)
     log, df_matriculas = DataExtractor.from_xml(ruta=file_path, archivo='matriculas.xml')
     logger.info(log)
