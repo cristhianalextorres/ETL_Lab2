@@ -6,7 +6,7 @@ class DataExtractor:
     def from_csv(ruta: str, archivo: str):
         try:
             df = pd.read_csv(ruta + archivo, sep=",")
-            log = f"[INFO] CSV cargado correctamente: {archivo}"
+            log = f"CSV cargado correctamente: {archivo}"
             return log, df
         except Exception as e:
             log = f"[ERROR] Error al leer CSV: {e}"
@@ -15,7 +15,7 @@ class DataExtractor:
     def from_json(ruta: str, archivo: str):
         try:
             df = pd.read_json(ruta + archivo)
-            log = f"[INFO] JSON cargado correctamente: {archivo}"
+            log = f"JSON cargado correctamente: {archivo}"
             return log, df
         except Exception as e:
             log = f"[ERROR] Error al leer JSON: {e}"
@@ -26,7 +26,7 @@ class DataExtractor:
             tree = ET.parse(ruta + archivo)
             root = tree.getroot()
             df = pd.read_xml(ruta + archivo, parser="lxml")
-            log = f"[INFO] XML cargado correctamente con ElementTree: {archivo}"
+            log = f"XML cargado correctamente con ElementTree: {archivo}"
             return log, df
         except Exception as e:
             log = f"[ERROR] Error al leer XML: {e}"

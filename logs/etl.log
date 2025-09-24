@@ -1,0 +1,7 @@
+2025-09-23 19:12:29,841 [INFO] Inicio del proceso ETL
+2025-09-23 19:12:29,843 [INFO] La BD ya existe: ..\data\lab2.db
+2025-09-23 19:12:29,844 [INFO] La tabla 'etl_monitor' ya existe.
+2025-09-23 19:12:29,845 [INFO] La tabla 'alumnos' ya existe.
+2025-09-23 19:12:29,845 [INFO] La tabla 'calificaciones' ya existe.
+2025-09-23 19:12:29,845 [INFO] La tabla 'matriculas' ya existe.
+2025-09-23 19:12:29,846 [ERROR] Error en la corrida ETL: too many values to unpack (expected 2)

@@ -11,7 +11,7 @@ class DataLoader:
         try:
             total_rows = len(df)
             df.to_sql(table_name, conn, if_exists="replace", index=False)
-            log = f"[INFO] {total_rows} registros insertados en tabla '{table_name}'"
+            log = f"{total_rows} registros insertados en tabla '{table_name}'"
 
             return log
 
@@ -28,7 +28,7 @@ class DataLoader:
             conn.commit()
             cursor.close()
 
-            log = f"[INFO] Tabla '{table_name}' creada correctamente"
+            log = f"Tabla '{table_name}' creada correctamente"
             return log
 
         except Exception as e:
@@ -39,12 +39,12 @@ class DataLoader:
     def init_db(path_db: str):
         try:
             if os.path.exists(path_db):
-                log= f"[INFO] La BD ya existe: {path_db}"
+                log= f"La BD ya existe: {path_db}"
                 conn = sqlite3.connect(path_db)
                 return conn, log
             else:
                 conn = sqlite3.connect(path_db)
-                log = f"[INFO] BD creada: {path_db}"
+                log = f"BD creada: {path_db}"
                 return conn, log
         except Exception as e:
             log = f"[ERROR] Error creando la bd '{path_db}': {e}"
@@ -63,7 +63,7 @@ class DataLoader:
             table_exists = cursor.fetchone()
 
             if table_exists:
-                log = f"[INFO] La tabla '{table_name}' ya existe."
+                log = f"La tabla '{table_name}' ya existe."
                 return log
             
             cursor.execute("PRAGMA foreign_keys = ON;")
@@ -71,7 +71,7 @@ class DataLoader:
             conn.commit()
             cursor.close()
 
-            log = f"[INFO] Tabla '{table_name}' creada correctamente."
+            log = f"Tabla '{table_name}' creada correctamente."
             return log
 
         except Exception as e:

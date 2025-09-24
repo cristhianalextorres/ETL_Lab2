@@ -1,9 +1,8 @@
 import logging
-from monitor import  MonitorETL
 
 
 class LoggerETL:
-    def __init__(self, monitor=None, log_file: str = "etl.log"):
+    def __init__(self, monitor=None, log_file: str = "..\\logs\\etl.log"):
         logging.basicConfig(
             filename=log_file,
             filemode="a",
