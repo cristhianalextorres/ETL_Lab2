@@ -78,7 +78,7 @@ try:
 
     log, df_alumnos = DataExtractor.from_csv(ruta=file_path, archivo='alumnos.csv')
     logger.info(log)
-    log, df_matriculas = DataExtractor.from_xml(ruta=file_path, archivo='matriculas.xml')
+    log, df_matriculas = DataExtractor.from_xml(ruta=file_path, archivo='matricula.xml')
     logger.info(log)
     log, df_calificaciones = DataExtractor.from_json(ruta=file_path, archivo='calificaciones.json')
     logger.info(log)
